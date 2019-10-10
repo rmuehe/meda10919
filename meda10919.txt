@@ -1,0 +1,35 @@
+MEDA 10/9/19
+
+Choose Your Own Adventure Logic
+
+jQuery: library with the goal to simplify the communication between JS and HTML
+
+api.jquery.com/addClass/
+
+.addClass()
+
+Objects are unique
+
+Advanced topic:
+"deep copy".. literally clones an object
+
+Objects are not values, they hold values.
+
+
+"Buffer" command line Node : keywords for y/n pausing in the terminal
+
+https://www.w3schools.com/jsref/event_onkeydown.asp
+
+
+
+https://www.youtube.com/watch?v=vU6OTnhj3wM
+readline "module" in node can take inputs.
+
+.close()
+.setPrompt()
+.prompt()
+.on()
+.trim()
+
+
+
